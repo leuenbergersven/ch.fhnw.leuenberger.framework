@@ -16,6 +16,9 @@ import javafx.stage.Stage;
  * license.txt).
  * 
  * @author Brad Richards
+ * 
+ * Testkommentar
+ * 
  */
 public class JavaFX_App_Template extends Application {
     private static JavaFX_App_Template mainProgram; // singleton
